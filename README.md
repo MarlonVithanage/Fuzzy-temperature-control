@@ -75,6 +75,8 @@ else duty = (temp - 15) / (20 - 15);
 🛠️ To-Do / Future Work
 
 Add humidity fuzzy logic control.
+
 Integrate real-time web dashboard.
+
 Extend to greenhouse control with multiple zones.
 
